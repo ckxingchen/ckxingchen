@@ -1,6 +1,6 @@
 ## 我是 测开星辰 ✨
 
-- 💼 本人:LiChuanyong, 网名:测开星辰。
+- 💼 本人: Chuanyong Li, 网名:测开星辰。
 - 🌱 干货：公众号『 软件测试技术联盟 』
 - 😺 视频：B站 测开星辰 | 抖音 测开星辰
 - 📝 博客：https://www.cnblogs.com/ckxingchen/
